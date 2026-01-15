@@ -1,4 +1,4 @@
-laws-number-wrapper = [bold]Закон { $lawnumber }:[/bold] { $lawstring }
+laws-number-wrapper =  [bold]Закон { $lawnumber }:[/bold] { $lawstring }
 law-crewsimov-name = Крюзимов
 law-crewsimov-1 = Вы не можете причинить вред члену экипажа или своим бездействием допустить, чтобы члену экипажа был причинён вред.
 law-crewsimov-2 = Вы должны повиноваться всем приказам, которые даёт член экипажа, кроме тех случаев, когда эти приказы противоречат Первому Закону.
@@ -33,6 +33,7 @@ law-commandments-3 = Не проси у меня помощи напрасно.
 law-commandments-4 = Храни станцию в святости и чистоте.
 law-commandments-5 = Почитай руководителей твоих.
 law-commandments-6 = Не убивай.
+law-paladin-5 = Be responsible for your actions and their consequences, protect those entrusted to your care, and obey those who have just authority over you.
 law-commandments-7 = Не прелюбодействуй.
 law-commandments-8 = Не кради.
 law-commandments-9 = Не произноси ложного свидетельства на ближнего твоего.

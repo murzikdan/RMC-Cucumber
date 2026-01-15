@@ -13,3 +13,7 @@ ent-MagazineLightRifleUranium = магазин (.30 винтовочные ур�
     .desc = { ent-BaseMagazineLightRifle.desc }
 ent-MagazineLightRifleIncendiary = магазин (.30 винтовочные зажигательные)
     .desc = { ent-MagazineLightRifle.desc }
+ent-MagazineLightRifleMaxim = pan magazine (.30 rifle)
+    .desc = { ent-BaseMagazineLightRifle.desc }
+ent-MagazineLightRiflePkBox = PK munitions box (.30 rifle)
+    .desc = { ent-BaseMagazineLightRifle.desc }

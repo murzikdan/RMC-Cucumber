@@ -1,0 +1,6 @@
+ent-RMCMapInsertHybrisaBase = { ent-RMCMapInsertBase }
+    .suffix = Insert Hybrisa
+    .desc = { ent-RMCMapInsertBase.desc }
+ent-RMCMapInsertHybrisaCLFSpaceport = CLF Spaceport
+    .suffix = Insert Hybrisa
+    .desc = { ent-RMCMapInsertHybrisaBase.desc }
